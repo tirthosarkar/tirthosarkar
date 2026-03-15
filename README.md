@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tirtho Sarkar</h1>
+<h3 align="center"><strong>A hardworking and passionate aspiring Front-End Developer 💻</strong><br/>I love building web interfaces, learning new things every day, and improving my coding skills step by step.<br/>I stay <strong>consistent and self-motivated</strong>, and I calmly face errors and bugs as challenges to learn from.</h3>
+
+<br/>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tirthosarkar&label=Profile%20views&color=0e75b6&style=flat" alt="tirthosarkar" /> </p>
