@@ -61,18 +61,18 @@
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzSumma&layout=compact&theme=tokyonight&hide_border=false&bg_color=0d1117&title_color=00F5FF&text_color=ffffff&border_color=00F5FF" alt="Top Languages" height="175" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tirthosarkar&layout=compact&theme=tokyonight&hide_border=false&bg_color=0d1117&title_color=00F5FF&text_color=ffffff&border_color=00F5FF" alt="Top Languages" height="175" />
     </td>
     <td align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=itzSumma&theme=tokyonight&background=0d1117&fire=00F5FF&ring=00F5FF&sideNums=ffffff&sideLabels=ffffff&dates=00c8cc&currStreakNum=ffffff&border=00F5FF" alt="GitHub Streak" height="175" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=tirthosarkar&theme=tokyonight&background=0d1117&fire=00F5FF&ring=00F5FF&sideNums=ffffff&sideLabels=ffffff&dates=00c8cc&currStreakNum=ffffff&border=00F5FF" alt="GitHub Streak" height="175" />
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=itzSumma&show_icons=true&theme=tokyonight&hide_border=false&bg_color=0d1117&title_color=00F5FF&text_color=ffffff&icon_color=00F5FF&border_color=00F5FF" alt="GitHub Stats" height="175" />
+      <img src="https://github-readme-stats.vercel.app/api?username=tirthosarkar&show_icons=true&theme=tokyonight&hide_border=false&bg_color=0d1117&title_color=00F5FF&text_color=ffffff&icon_color=00F5FF&border_color=00F5FF" alt="GitHub Stats" height="175" />
     </td>
     <td align="center">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=itzSumma&bg_color=0d1117&color=00F5FF&line=00F5FF&point=ffffff&area=true&hide_border=false" alt="Contribution Graph" height="175" />
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=tirthosarkar&bg_color=0d1117&color=00F5FF&line=00F5FF&point=ffffff&area=true&hide_border=false" alt="Contribution Graph" height="175" />
     </td>
   </tr>
 </table>
@@ -83,7 +83,7 @@
 
 <h2 align="center"><strong>📈 My Contribution Graph 📈</strong></h2>
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=itzSumma&bg_color=0d1117&color=00F5FF&line=00F5FF&point=ffffff&area=true&hide_border=false" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tirthosarkar&bg_color=0d1117&color=00F5FF&line=00F5FF&point=ffffff&area=true&hide_border=false" alt="Contribution Graph" />
 </div>
 
 <br/>
@@ -99,6 +99,6 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&weight=700&lines=Thanks+for+visiting+my+profile!+✨;Let's+learn%2C+build+%26+grow+together!+🚀;⭐+From+Sharmin+Sultana+Summa" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&weight=700&lines=Thanks+for+visiting+my+profile!+✨;Let's+learn%2C+build+%26+grow+together!+🚀;⭐+From+Tirtho+Sarkar" />
 </p>
 
