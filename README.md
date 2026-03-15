@@ -39,3 +39,66 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
+<h2 align="center"><strong>💡 My Coding Mindset</strong></h2>
+
+<table align="center">
+  <tr>
+    <td><h3>🧠 <strong>Curious & Always Learning</strong></h3></td>
+    <td><h3>📈 <strong>Consistent Practice</strong> to improve every day</h3></td>
+  </tr>
+  <tr>
+    <td><h3>🛠️ <strong>Calm & Focused Debugging</strong> — Every bug is a lesson</h3></td>
+    <td><h3>💡 <strong>Experiment & Build</strong> small projects to grow skills</h3></td>
+  </tr>
+</table>
+
+<br/>
+
+---
+
+<h2 align="center"><strong>💻 My GitHub Activity 💻</strong></h2>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzSumma&layout=compact&theme=tokyonight&hide_border=false&bg_color=0d1117&title_color=00F5FF&text_color=ffffff&border_color=00F5FF" alt="Top Languages" height="175" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=itzSumma&theme=tokyonight&background=0d1117&fire=00F5FF&ring=00F5FF&sideNums=ffffff&sideLabels=ffffff&dates=00c8cc&currStreakNum=ffffff&border=00F5FF" alt="GitHub Streak" height="175" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=itzSumma&show_icons=true&theme=tokyonight&hide_border=false&bg_color=0d1117&title_color=00F5FF&text_color=ffffff&icon_color=00F5FF&border_color=00F5FF" alt="GitHub Stats" height="175" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=itzSumma&bg_color=0d1117&color=00F5FF&line=00F5FF&point=ffffff&area=true&hide_border=false" alt="Contribution Graph" height="175" />
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+---
+
+<h2 align="center"><strong>📈 My Contribution Graph 📈</strong></h2>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=itzSumma&bg_color=0d1117&color=00F5FF&line=00F5FF&point=ffffff&area=true&hide_border=false" alt="Contribution Graph" />
+</div>
+
+<br/>
+
+---
+
+<h2 align="center"><strong>💡 Daily Coding Inspiration 💡</strong></h2>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&category=motivational" alt="Quote of the day" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&weight=700&lines=Thanks+for+visiting+my+profile!+✨;Let's+learn%2C+build+%26+grow+together!+🚀;⭐+From+Sharmin+Sultana+Summa" />
+</p>
+
