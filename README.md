@@ -25,16 +25,6 @@
 
 - ⚡ Fun fact **I create youtube videos**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/tirthosarkar3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tirthosarkar3" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/tirtho-sarkar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tirtho-sarkar/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/tirthosarkar01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/tirthosarkar01" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/tirtho_sarkar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/tirtho_sarkar/" height="30" width="40" /></a>
-<a href="https://www.behance.net/https://www.behance.net/tirthosarkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/tirthosarkar" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/@tirtho_design_hub" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@tirtho_design_hub" height="30" width="40" /></a>
-<a href="https://discord.gg/tirthosarkar1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="tirthosarkar1" height="30" width="40" /></a>
-</p>
 <p align="left">
 📧 <a href="mailto:tirthosarkar1@gmail.com">tirthosarkar1@gmail.com</a>
 &nbsp; | &nbsp;
