@@ -70,11 +70,6 @@
 <br/>
 
 ---
-## 📊 &nbsp;Github Stats
-
-(https://github-readme-activity-graph.vercel.app/graph?username=tirthosarkar7&bg_color=000000&color=ea75e3&line=992992&point=d19999&area=true&hide_border=true)]
-
----
 
 <h2 align="center"><strong>📈 My Contribution Graph 📈</strong></h2>
 <div align="center">
